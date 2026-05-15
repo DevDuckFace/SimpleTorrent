@@ -1,6 +1,7 @@
 # SimpleTorrent
 
 A simple torrent client for Windows with a Kill Switch button to block uploads.
+<img width="839" height="471" alt="Image" src="https://github.com/user-attachments/assets/7ec3fe28-97a3-4ab7-9538-4e4394c66f23" />
 
 ## Features
 
